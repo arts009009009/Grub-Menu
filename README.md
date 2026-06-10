@@ -25,7 +25,7 @@ Check out my profile site: [Elite Tech](https://elite-tech-official.netlify.app/
 ## 📂 Install & Run Locally
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/grub-menu.git
+   git clone https://github.com/arts009009009/grub-menu.git
 2. Install dependencies
   npm install
 3.Run locally
